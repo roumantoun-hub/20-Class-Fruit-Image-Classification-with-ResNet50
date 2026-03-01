@@ -1,0 +1,15 @@
+﻿# data / artifacts
+fruits.zip
+fruits_dataset/
+fruits20_split/
+confusion_examples/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# env
+.venv/
+venv/
+env/
