@@ -104,10 +104,3 @@ unzip fruits.zip
 
 ### 4) Run the Notebook
 Open the notebook and execute the cells sequentially.
-
----
-
-## ⚠️ Note
-
-The trained model file (`best.keras`) is not included due to GitHub size limits.  
-You can reproduce results by running the notebook.
